@@ -1,5 +1,3 @@
-Here's a draft README file for the Stegano-LLM project:
-
 # Stegano-LLM: AI-Powered Steganography
 
 ## Introduction

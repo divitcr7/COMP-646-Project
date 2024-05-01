@@ -19,8 +19,11 @@ The Stegano-LLM project follows a multi-step process that involves various techn
 2. **Prompt Generation**: A large language model, such as Dolly-v-3B, is employed to generate relevant and naturalistic descriptive prompts for each image irrelevant to it to maintain security. These prompts serve as creative captions, without any prior knowledge of the actual image contents.
 
 3. **Steganographic Embedding**: The base64-encoded image data is seamlessly embedded within the generated prompts using sophisticated steganographic techniques. This embedding process conceals the presence of any hidden data from casual observers.
+![image](https://github.com/divitcr7/Stegano-LLM/assets/67183559/2bf38b62-ae31-48fd-ae59-5a10da22c003)
 
 4. **Data Extraction**: The project includes functionality to securely extract and reconstruct the original base64 data from the embedded prompts, allowing for the retrieval and decoding of the concealed image information.
+![image](https://github.com/divitcr7/Stegano-LLM/assets/67183559/fa47c6ea-1629-4add-abd9-9adc6a26c6da)
+![image](https://github.com/divitcr7/Stegano-LLM/assets/67183559/e31eb867-28cf-4f47-b936-6c0d26b49dd2)
 
 ## Applications
 

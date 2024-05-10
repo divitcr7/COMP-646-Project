@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Stegano-LLM is an innovative project that leverages the power of large language models (LLMs) to revolutionize the field of steganography. By seamlessly integrating cutting-edge artificial intelligence and natural language processing techniques, this project introduces a novel approach to concealing sensitive data within AI-generated textual prompts.
+The **First Ever Project** that leverages the power of large language models (LLMs) to revolutionize the field of steganography. By seamlessly integrating cutting-edge artificial intelligence and natural language processing techniques, this project introduces a novel approach to concealing sensitive data within AI-generated textual prompts.
 
 ## Motivation
 
